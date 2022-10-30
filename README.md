@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... ATTIVITA inc. & N8tive Works inc.
-- 🌱 I’m currently learning ... Golang
-- 💬 Ask me about ... React, Typescript
+- 🌱 I’m currently learning ... Golang & C++
+- 💬 Ask me about ... React & Typescript
 - 📫 How to reach me: ... tomoya.progress@gmail.com
 - 😄 Pronouns: ... He/His
 - ⚡ Fun fact: ...
