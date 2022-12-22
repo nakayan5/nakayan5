@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ... TYRT inc. & N8tive Works inc.
 - 🌱 I’m currently learning ... Golang & C++ & Rust & Zig
 - 💬 Ask me about ... React & Typescript
-- 📫 How to reach me: ... tomoya.progress@gmail.com
+- 📫 How to reach me: ...
 - 😄 Pronouns: ... He/His
 - ⚡ Fun fact: ...
 
