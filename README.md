@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... TYRT inc. & N8tive Works inc.
+- 🔭 I’m currently working on ... freelance
 - 🌱 I’m currently learning ... Golang & C++ & Rust & Zig
 - 💬 Ask me about ... React & Typescript
 - 📫 How to reach me: ...
