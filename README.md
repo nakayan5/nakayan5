@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... freelance
-- 🌱 I’m currently learning ... Golang & C++ & Rust & Zig
+- 🌱 I’m currently learning ... Go & C++ & Rust & Zig
 - 💬 Ask me about ... React & Typescript
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... He/His
