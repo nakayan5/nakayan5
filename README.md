@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... freelance
+- 🔭 I’m currently working on ... [Ginco](https://www.ginco.co.jp/)
+- 🌱 I’m a core member of ... [yamada-ui](https://github.com/yamada-ui/yamada-ui)
 - 🌱 I’m currently learning ... Go & Rust
 - 💬 Ask me about ... React & Typescript
 - 📫 How to reach me: ...
