@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... [Ginco](https://www.ginco.co.jp/)
 - 🌱 I’m a maintainer of ... [yamada-ui](https://github.com/yamada-ui)
 - 🌱 I’m currently learning ... Go & Rust
 - 💬 Ask me about ... React & Typescript
